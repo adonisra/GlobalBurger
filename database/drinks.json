@@ -1,0 +1,29 @@
+{
+    "items": {
+        "Apfelsaft": {
+            "preis": 1.99,
+            "beschreibung": "Apfel super! 0.05ml"
+        },
+        "Cola": {
+            "preis": 2.50,
+            "beschreibung": "Cola Zero mit Zucker"
+        },
+        "Kaffee": {
+            "preis": 8.99,
+            "beschreibung": "Warm"
+        },
+        "Orangensaft": {
+            "preis": 1.99,
+            "beschreibung": "0.002ml"
+        },
+        "Wasser": {
+            "preis": 20,
+            "beschreibung": "Leitungswasser"
+        },
+        "Wein": {
+            "preis": 0,
+            "beschreibung": "10 Liter Flasche"
+        }
+    },
+    "image_path": "database/images/drinks"
+}

@@ -1,0 +1,29 @@
+{
+    "items": {
+        "Burger": {
+            "preis": 5.99,
+            "beschreibung": "Burger mit Fleisch!"
+        },
+        "Fisch": {
+            "preis": 4.50,
+            "beschreibung": "Fisch vom Meer"
+        },
+        "Fleisch": {
+            "preis": 1.99,
+            "beschreibung": "100% Vegan"
+        },
+        "Pizza": {
+            "preis": 8.99,
+            "beschreibung": "Pizza"
+        },
+        "Pommes": {
+            "preis": 3.50,
+            "beschreibung": "Hausgemachte Pommes"
+        },
+        "Salat": {
+            "preis": 10,
+            "beschreibung": "Ich bin salat"
+        }
+    },
+    "image_path": "database/images/food"
+}
